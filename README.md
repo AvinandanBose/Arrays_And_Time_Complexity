@@ -117,13 +117,5 @@ If you want to reach out:
 
 This project is open-source and available under the **MIT License**.
 
-```
 
----
 
-If you want, I can **suggest badges** (build status, license, stars) or generate a **visual documentation site** like Docusaurus for this repo.
-::contentReference[oaicite:3]{index=3}
-```
-
-[1]: https://www.log2base2.com/data-structures/array/array-data-structure.html?utm_source=chatgpt.com "Array Data Structure | Time complexity of accessing an item ..."
-[2]: https://www.youtube.com/watch?v=B2KusJcbVIg&utm_source=chatgpt.com "Array Data Structure Tutorial - Array Time Complexity"
